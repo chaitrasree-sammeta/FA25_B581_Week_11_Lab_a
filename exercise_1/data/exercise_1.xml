@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<note>
+  <to priority="moderate" type="Meet up for lunch">Shannu</to>
+  <from>Chaitu</from>
+  <heading>Reminder</heading>
+  <body>Don't forget to meetup for lunch  at 12:30 pm tomorrow!</body>
+  <must_bring>Bring your Atm card</must_bring>
+  <location>Cheese Cake Factory</location>
+  <agenda>Casual Meetup</agenda>
+</note>

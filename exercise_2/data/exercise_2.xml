@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<patients>
+  <patient id="003">
+    <first_name>Alice</first_name>
+    <last_name>Johnson</last_name>
+    <age>29</age>
+    <gender>Female</gender>
+    <diagnosis>Asthma</diagnosis>
+    <medications>
+      <medication>Albuterol</medication>
+      <medication>Montelukast</medication>
+    </medications>
+  </patient>
+  <patient id="004">
+    <first_name>Carlos</first_name>
+    <last_name>Ramirez</last_name>
+    <age>52</age>
+    <gender>Male</gender>
+    <diagnosis>Hyperlipidemia</diagnosis>
+    <medications>
+      <medication>Atorvastatin</medication>
+      <medication>Ezetimibe</medication>
+    </medications>
+  </patient>
+</patients>
